@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_menu_de_la_app">MenuDeLaApp</string>
+    <string name="title_activity_finanzas">Finanzas</string>
+</resources>
